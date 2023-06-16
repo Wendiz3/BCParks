@@ -1,4 +1,4 @@
-#### E. C. Manning PARK ####
+#### E. C. MANNING PARK ####
 
 library(terra)
 library(sf)
