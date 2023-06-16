@@ -1,4 +1,3 @@
-
 #### WEST ARM PARK ####
 
 library(terra)
