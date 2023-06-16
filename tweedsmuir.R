@@ -1,4 +1,3 @@
-
 #### TWEEDSMUIR PARK ####
 
 library(terra)
@@ -58,7 +57,7 @@ tweedsmuir_19_masked <- terra::mask(tweedsmuir_19, vect(tweedsmuir_grid))
 plot(tweedsmuir_89)
 plot(tweedsmuir_99_masked)
 
-### metrics ####
+#### metrics ####
 
 1989
 
@@ -165,7 +164,7 @@ for (i in 1:nrow(tweedsmuir_grid)) {
 
 write_csv(tweedsmuir_19_out, "metrics\\tweedsmuir_19.csv")
 
-### subset by class and metrics ####
+#### subset by class and metrics ####
 
 1989
 
