@@ -1,4 +1,4 @@
-#### Manning PARK ####
+#### E. C. Manning PARK ####
 
 library(terra)
 library(sf)
@@ -39,7 +39,7 @@ plot(st_geometry(manning_grid))
 plot(manning_grid)
 
 # write to a shapefile
-# st_write(manning_grid, "park grids\\manning_grid.shp", driver="ESRI Shapefile")
+st_write(manning_grid, "park grids\\manning_grid.shp", driver="ESRI Shapefile")
 
 #### add gridID to park grid data frame ####
 manning_grid$gridID <- 1:nrow(manning_grid)
@@ -353,9 +353,3 @@ output <- rename(output, metrics = V1, t_value = V2, p_value = V3, df = V4)
 write.csv(output, "t_test_csv/manning.csv")
 
 ggplot(df, aes(place, value))+geom_boxplot()
-
-
-
-
-
-
