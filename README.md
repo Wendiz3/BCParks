@@ -17,7 +17,12 @@ Provincial parks of British Columbia are protected for their high ecological, cu
 <h2>Map Deliverables</h2>
 
 <b>E. C. Manning Park</b>
-![manning forest](https://github.com/Wendiz3/BCParks/assets/126609054/0baae136-939b-4cf5-8606-78c22f7da9bd)
+![manning forest](https://github.com/Wendiz3/BCParks/assets/126609054/59efe07b-fef0-4d07-bc1b-ebb3dfc652cd)
 <b>Mount Robson Park</b>
+![mt robson forest](https://github.com/Wendiz3/BCParks/assets/126609054/c552c839-7122-4907-9149-7a09d64db448)
 <b>Tweedsmuir Park</b>
+![Tweedsmuir forest](https://github.com/Wendiz3/BCParks/assets/126609054/4ab18e53-2280-4cba-8d7a-1090297a0793)
 <b>West Arm Park</b>
+![west arm forest](https://github.com/Wendiz3/BCParks/assets/126609054/2e963304-7db9-411b-9a8b-30c2a48a2efc)
+
+<p><em>The display of the maps is slightly compromised due to sizing and formatting limitations on Github<p>
