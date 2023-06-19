@@ -5,7 +5,7 @@ Provincial parks of British Columbia are protected for their high ecological, cu
 
 <h2>Study Areas</h2>
 
-- E.C. Manning Park
+- E. C. Manning Park
 - Mount Robson Park
 - Tweedsmuir Park
 - West Arm Park
@@ -13,3 +13,7 @@ Provincial parks of British Columbia are protected for their high ecological, cu
 <h2>Community Partner</h2>
   
 - BC Parks
+
+<h2>Map Deliverables</h2>
+
+<b>E. C. Manning Park: Percentage of Core Forested Area</b>
