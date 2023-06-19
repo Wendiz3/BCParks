@@ -16,4 +16,8 @@ Provincial parks of British Columbia are protected for their high ecological, cu
 
 <h2>Map Deliverables</h2>
 
-<b>E. C. Manning Park: Percentage of Core Forested Area</b>
+<b>E. C. Manning Park</b>
+![manning forest](https://github.com/Wendiz3/BCParks/assets/126609054/0baae136-939b-4cf5-8606-78c22f7da9bd)
+<b>Mount Robson Park</b>
+<b>Tweedsmuir Park</b>
+<b>West Arm Park</b>
